@@ -64,3 +64,11 @@ node_modules/
 
 # dotenv environment variables file
 .env
+
+ios/Runner/GoogleService-Info.plist
+android/app/google-services.json
+
+build
+.dart_tool
+web/scripts/app.js
+ios/Runner/Info.plist

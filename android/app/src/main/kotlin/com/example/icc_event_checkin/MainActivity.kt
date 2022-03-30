@@ -1,4 +1,4 @@
-package com.example.icc_event_checkin
+package com.icceventcheckin.app
 
 import io.flutter.embedding.android.FlutterActivity
 
